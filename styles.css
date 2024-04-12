@@ -153,6 +153,8 @@ main {
     line-height: 50px;
 }
 
+/* Added a new class for the h1 element in the header */
+
 .header-h1 {
     font-size: 9.5em;
 }
